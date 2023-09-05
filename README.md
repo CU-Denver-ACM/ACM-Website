@@ -23,7 +23,7 @@ Before you can run this project locally, you need to have the following installe
   - [npm Installation Guide](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
 
 
-# How to Clone This Project
+# Getting Started
 
 1. Clone the repo withe the following command: ```git clone https://github.com/your-repository-url/acm-cu-denver-website.git```
 
